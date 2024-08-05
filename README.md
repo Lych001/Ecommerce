@@ -14,16 +14,6 @@ An e-commerce platform with personalized pricing and advanced features.
 -Node.js (version 20.14.0 or higher)
 -npm (version 10.7.0 or higher)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-2. Navigate into the project directory:
-   cd your-repo
-3. Installa dependencies:
-   npm install
-
 ## USAGE
 1. Start the server:
    npm start
